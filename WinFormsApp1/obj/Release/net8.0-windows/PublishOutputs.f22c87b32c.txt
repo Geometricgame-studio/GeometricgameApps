@@ -1,0 +1,12 @@
+C:\Users\ryanc\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\All tools Form Apps.exe
+C:\Users\ryanc\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\All tools Form Apps.dll
+C:\Users\ryanc\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\All tools Form Apps.deps.json
+C:\Users\ryanc\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\All tools Form Apps.runtimeconfig.json
+C:\Users\ryanc\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\All tools Form Apps.pdb
+C:\Users\ryanc\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\Interop.WMPLib.dll
+C:\Users\ryanc\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\AxInterop.WMPLib.dll
+C:\Users\ryanc\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\ryanc\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\Newtonsoft.Json.dll
+C:\Users\ryanc\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\System.Data.OleDb.dll
+C:\Users\ryanc\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\YoutubeExtractor.dll
+C:\Users\ryanc\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\runtimes\win\lib\net8.0\System.Data.OleDb.dll
